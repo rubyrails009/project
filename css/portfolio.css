@@ -272,13 +272,22 @@ h1 {
     }
       
       h1 {
-          font-size: small;
+          font-size: medium;
       }
     
     #navbar-title {
       font-size: 10px;
     }
     
+      div a {
+          font-size: medium;
+      }
+      
+      nav,
+      navbar-nav,
+      navbar-brand {
+          max-width: 100%;
+      }
     #nav-tag a{
         font-size: small;
       text-align: center;
@@ -286,8 +295,8 @@ h1 {
 
     .container nav{
         
-        width: 100%;
-        font-size: small !important;
+        max-width: 100%;
+        
     }
 
 }
