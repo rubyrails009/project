@@ -268,22 +268,22 @@ h1 {
   and (max-width: 640px) {
     
     #nttLogo {
-      width: 45px;
+      display: none;
     }
+      
+      h1 {
+          font-size: small;
+      }
     
     #navbar-title {
       font-size: 10px;
     }
     
-    #nav-tag {
+    #nav-tag a{
+        font-size: small;
       text-align: center;
     }
-    
-    #contact {
-      margin-right: -5px;
-      display: inline;
-    }
-      
+
     .container nav{
         
         width: 100%;
