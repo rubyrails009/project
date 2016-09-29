@@ -286,33 +286,9 @@ h1 {
 
 }
 
-@media screen 
-  and (device-width: 320px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 2) {
-    
-    #nttLogo {
-      display: none;
-    }
-    
-    #navbar-title {
-      font-size: 10px;
-    }
-    
-    #nav-tag {
-      text-align: center;
-    }
-    
-    #contact {
-      margin-right: -5px;
-      display: inline;
-    }
-
-}
 
 @media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
+  and (max-width: 360px) 
   and (-webkit-device-pixel-ratio: 3) {
     
     #nttLogo {
