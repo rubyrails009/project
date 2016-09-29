@@ -331,6 +331,10 @@ h1 {
       margin-right: -5px;
       display: inline;
     }
+      
+    .container nav{
+        font-size: small !important;
+    }
 
 }
 
