@@ -306,7 +306,10 @@ h1 {
         line-height: 150px;
         height: 150px;
         padding-top: 0;
-        display: inline;
+        display: inline-block;
+        text-decoration: none;
+        font-size: medium;
+        
     }
     
     
