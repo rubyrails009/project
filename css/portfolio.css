@@ -313,8 +313,10 @@ h1,h3 {
         
         #navbar-title-3 {
             display: inline-block;
-            font-size: 1.3em;
-            width: inherit;
+            font-size: 1.2em;
+            width: auto;
+            float: left;
+            
         }
 
     }
