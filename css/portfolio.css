@@ -312,6 +312,7 @@ h1,h3 {
             font-size: 1.0em;
             padding: auto;
             margin: auto;
+            border: 3em;
         }
         
         #navbar-title-3 {
