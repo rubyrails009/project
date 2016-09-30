@@ -281,13 +281,17 @@ h1 {
 
     /*==========  Mobile First Method  ==========*/
 
-    /* Custom, iPhone Retina */ 
-    @media only screen and (min-width : 320px) {
-        
+    /* Default small screen size */
+    @media (min-width: 0px) {
         #nav-div {
             display: none;
         }
         
+    }
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+       
     }
 
     /* Extra Small Devices, Phones */ 
