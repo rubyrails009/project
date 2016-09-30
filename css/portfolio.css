@@ -298,10 +298,38 @@ h1 {
 
 }
 
-@media 
-  (min-device-width: 800px) 
-  and (max-device-width: 1280px) {
+@media (max-width: 480px) {
+    
+     #nttLogo {
+      display: none;
+    }
+      
+      h1 {
+          font-size: 45px;
+      }
+    
+      div a {
+          font-size: medium;
+      }
+      
+      nav,
+      navbar-nav,
+      navbar-brand {
+          max-width: 100%;
+      }
+      
+    #nav-tag a{
+        font-size: small;
+      text-align: center;
+    }
 
+    div nav .navbar-fixed-top {
+        
+        height: 45px;
+        
+    }
+    
+    background-color: green;
 }
 
 #nav-div {
