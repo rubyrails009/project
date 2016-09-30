@@ -308,7 +308,7 @@ h1,h3 {
             
         }
         
-        #navbar-collapse-1 > ul > li {
+        #navbar-collapse-1 > ul > li > a {
             font-size: 1.0em;
             padding: auto;
             margin: auto;
