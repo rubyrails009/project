@@ -300,32 +300,10 @@ h1 {
 
 @media (max-width: 480px) {
     
-    .navbar-brand,
-    .navbar-nav li a {
-        line-height: 150px;
-        height: 150px;
-        padding-top: 0;
-        display: inline-block;
-        text-decoration: none;
-        font-size: medium;
-        
+    #nav-div {
+        display: none;
     }
-    
-    #navbar-title {
-        
-        max-width: inherit;
-        max-height: inherit;
-    }
-    
-    #nav-tag ul li a {
-        
-        float: left;
-        display: inline-block;
-        font-size: medium;
-        text-align: center;
-    }
-    
-    
+  
 }
 
 #nav-div {
