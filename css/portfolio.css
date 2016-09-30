@@ -316,10 +316,11 @@ h1,h3 {
         }
         
          #navbar-collapse-1 > .navbar-right {
-            padding: auto;
-            margin: auto;
-            height: 3em;
-            width: auto;
+            padding: 1em;
+            margin: 1em;
+            height: 1em;
+            width: 1em;
+            
         }
         
         #navbar-title-3 {
