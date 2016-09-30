@@ -81,7 +81,9 @@ hr {
   min-height: 2em;
   font-size: 1.5em !important;
   font-family: 'Lobster';
+  border-radius: 40%;
 }
+
 .navbar-brand {
   padding: 0 15px; 
   height: 70px; 
