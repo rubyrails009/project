@@ -311,6 +311,12 @@ h1 {
         
     }
     
+    #navbar-title {
+        
+        max-width: inherit;
+        max-height: inherit;
+    }
+    
     
 }
 
