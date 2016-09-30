@@ -274,7 +274,7 @@ h1 {
     }
       
       h1 {
-          font-size: 45px;
+          font-size: 20px;
       }
     
       div a {
@@ -293,7 +293,7 @@ h1 {
       }
       
       
-    #nav-tag a{
+    #nav-tag ul li a {
         font-size: small;
       text-align: center;
     }
