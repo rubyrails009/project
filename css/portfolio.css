@@ -54,7 +54,7 @@ hr {
 }
 
 #about {
-    width: auto;
+    width: 90%;
     height: 300px;
     border: 3px solid green;
     padding: 125px;
@@ -63,7 +63,7 @@ hr {
 }
 
 #portfolio {
-    width: auto;
+    width: 90%;
     height: 500px;
     border: 3px solid red;
     padding: 125px;
@@ -71,7 +71,7 @@ hr {
     border-radius: 15px;
 }
 #contact {
-    width: auto;
+    width: 90%;
     height: 500px;
     border: 3px solid blue;
     padding: 125px;
