@@ -264,9 +264,7 @@ h1 {
 
 
 @media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 3) {
+  and (max-width: 640px) {
       
       #nttLogo {
       display: none;
@@ -300,7 +298,7 @@ h1 {
 
 }
 
-@media (max-width: 359px) {
+@media (max-width: 480px) {
     
     .navbar-brand,
     .navbar-nav li a {
