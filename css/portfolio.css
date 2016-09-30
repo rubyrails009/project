@@ -1,9 +1,7 @@
 a {
-    line-height: 1px;
-    display: inline-block;
+    line-height: .0625em;
+    display: inline;
     text-decoration: none;
-    padding: auto;
-    margin: auto;
 }
 
 #embedded-navbar {
