@@ -306,6 +306,10 @@ h1 {
         #another-navbar {
             display: inline;
         }
+        
+        #navbar-collapse-1 > ul > li > a {
+            font-size: 20px;
+        }
 
     }
 
