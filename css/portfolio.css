@@ -305,7 +305,7 @@ h1,h3 {
         
         #another-navbar {
             display: inline;
-            max-height: 50px;
+            max-height: 6em;
         }
         
         #navbar-collapse-1 > ul > li {
