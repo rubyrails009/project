@@ -398,7 +398,7 @@ h1,h3 {
         }
         
          #nav-div {
-            display: inline;
+            display: inline-block;
         }
 
     }
