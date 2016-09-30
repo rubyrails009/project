@@ -302,23 +302,6 @@ h1 {
           font-size: auto;
       }
     
-      
-    .navbar-brand,
-    .navbar-nav li a {
-        line-height: 150px;
-        height: 150px;
-        padding-top: 0;
-        display: inline-block;
-        text-decoration: none;
-        font-size: medium;
-        list-style: none;
-      }
-      
-      
-    #nav-tag ul li a {
-        font-size: small;
-      text-align: center;
-    }
 
 
     }
