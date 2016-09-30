@@ -328,7 +328,7 @@ h1,h3 {
         }
         
         #navbar-collapse-1 > .dropdown-menu {
-            width: auto;
+            height: inherit;
         }
 
     }
