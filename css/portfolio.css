@@ -300,11 +300,11 @@ h1 {
         }
         
         #collapse-navbar {
-            display: inline;
+            display: none;
         }
         
         #another-navbar {
-            display: inline;
+            display: none;
         }
 
     }
