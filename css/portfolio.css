@@ -378,6 +378,12 @@ h1,h3 {
     /* Small Devices, Tablets */
     @media only screen and (min-width : 768px) {
         
+        
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+        
         #another-navbar {
             
             display: none;
@@ -387,10 +393,6 @@ h1,h3 {
             display: inline;
         }
 
-    }
-
-    /* Medium Devices, Desktops */
-    @media only screen and (min-width : 992px) {
 
     }
 
