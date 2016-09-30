@@ -310,8 +310,8 @@ h1,h3 {
         
         #navbar-collapse-1 > ul > li {
             font-size: 1.0em;
-            padding: .3em .2em;
-            width: 3em;
+            padding: auto;
+            margin: auto;
         }
         
         #navbar-title-3 {
