@@ -306,11 +306,6 @@ h1 {
         #another-navbar {
             display: inline;
         }
-        
-        #another-navbar > #navbar-collapse-1 > navbar-nav > li > a {
-            padding: .2em .1em;
-            font-size: medium;
-        }
 
         
     }
