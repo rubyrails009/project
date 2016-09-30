@@ -262,7 +262,10 @@ h1 {
      -webkit-backface-visibility: hidden;
 }
 
-
+#nav-tag ul li {
+    
+    list-style-type: none;
+}
 @media screen 
   and (max-width: 640px) {
       
