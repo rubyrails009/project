@@ -30,7 +30,7 @@ body {
 #content {
   margin-top: 3.125em;
   margin-right: 1.875em;
-  text-align: center;
+  text-align: auto;
   
   max-width: 125em;
   padding: .875em .875em .875em;
@@ -327,9 +327,7 @@ h1,h3 {
             
         }
         
-        #navbar-collapse-1 > .dropdown-menu {
-            height: auto;
-        }
+   
 
     }
 
