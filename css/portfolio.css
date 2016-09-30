@@ -280,22 +280,22 @@ h1 {
           font-size: medium;
       }
       
-      nav,
-      navbar-nav,
-      navbar-brand {
-          max-width: 100%;
+      .navbar-brand,
+    .navbar-nav li a {
+        line-height: 150px;
+        height: 150px;
+        padding-top: 0;
+        display: inline-block;
+        text-decoration: none;
+        font-size: medium;
       }
+      
       
     #nav-tag a{
         font-size: small;
       text-align: center;
     }
 
-    div nav .navbar-fixed-top {
-        
-        height: 45px;
-        
-    }
 
 }
 
