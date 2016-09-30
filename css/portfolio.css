@@ -272,8 +272,8 @@ h1,h3 {
     border: none;
 }
 
-.carousel-control {
-    background-color: none;
+.carousel-control.left, .carousel-control.right {
+    background-image: none;
 }
 
 .navbar-fixed-top  {
