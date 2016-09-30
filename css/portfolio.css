@@ -221,7 +221,7 @@ h1,h3 {
 /* Carousel Styling */
 .slide1 {
   background-image: url('http://wallpaper.zone/img/2879265.jpg');
-  height: 31.25em;
+  height: 500px;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -229,7 +229,7 @@ h1,h3 {
 
 .slide2 {
   background-image: url('http://cdn.wallpapersafari.com/1/21/MQO3xG.jpg');
-  height: 31.25em;
+  height: 500px;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
