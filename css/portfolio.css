@@ -384,20 +384,22 @@ h1,h3 {
     /* Medium Devices, Desktops */
     @media only screen and (min-width : 992px) {
         
-        #another-navbar {
-            
-            display: none;
-        }
         
-         #collapse-navbar {
-            display: inline;
-        }
 
 
     }
 
     /* Large Devices, Wide Screens */
     @media only screen and (min-width : 1200px) {
+        
+        #another-navbar {
+            
+            display: none;
+        }
+        
+         #nav-div {
+            display: inline;
+        }
 
     }
 
