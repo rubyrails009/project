@@ -150,7 +150,7 @@ hr.style18:before {
   border-radius: 20px; 
 }
 
-h1 {
+h1,h3 {
   color: white;
   font-family: 'Lobster', cursive;
   
@@ -308,7 +308,13 @@ h1 {
         }
         
         #navbar-collapse-1 > ul > li {
-            font-size: 1.5em;
+            font-size: 1.0em;
+        }
+        
+        #navbar-title-3 {
+            display: inline-block;
+            font-size: 1.3em;
+            width: inherit;
         }
 
     }
