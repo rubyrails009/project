@@ -315,7 +315,7 @@ h1,h3 {
             border: 3em;
         }
         
-         #navbar-collapse-1 > #navbar-right {
+         #navbar-collapse-1 > .navbar-right {
             padding: auto;
             margin: auto;
             height: 3em;
