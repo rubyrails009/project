@@ -315,10 +315,11 @@ h1,h3 {
             border: 3em;
         }
         
-         #navbar-collapse-1 > ul > li > a {
+         #navbar-collapse-1 > #navbar-right {
             padding: auto;
             margin: auto;
-            border: 3em;
+            height: 3em;
+            width: auto;
         }
         
         #navbar-title-3 {
