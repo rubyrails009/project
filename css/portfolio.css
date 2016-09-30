@@ -313,6 +313,7 @@ h1,h3 {
             padding: auto;
             margin: auto;
             border: 3em;
+            text-align: center;
         }
         
         
@@ -327,7 +328,7 @@ h1,h3 {
             
         }
         
-        .navbar-right {
+        #another-navbar > #navbar-collapse-1 > .navbar-right > li {
             width: auto;
             height: auto;
         }
