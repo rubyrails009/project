@@ -315,9 +315,8 @@ h1,h3 {
             border: 3em;
         }
         
-         #navbar-collapse-1 > .navbar-right {
-            padding: .2em;
-            margin: .1em;
+         #navbar-collapse-1 > ul {
+            
             height: .1em;
             width: .1em;
             
