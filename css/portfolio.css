@@ -306,12 +306,8 @@ h1 {
         #another-navbar {
             display: inline;
         }
-
-        .navbar-nav > li {
-            font-size: 20px;
-        }
         
-        .dropdown-menu {
+        #navbar-collapse-1 > ul > li > a {
             font-size: 20px;
         }
         
