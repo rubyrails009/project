@@ -307,6 +307,10 @@ h1 {
             display: inline;
         }
         
+        #another-navbar > div > ul {
+            padding: .2em .1em;
+        }
+        
     }
 
     /* Extra Small Devices, Phones */ 
