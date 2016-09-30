@@ -315,6 +315,12 @@ h1,h3 {
             border: 3em;
         }
         
+         #navbar-collapse-1 > ul > li > a {
+            padding: auto;
+            margin: auto;
+            border: 3em;
+        }
+        
         #navbar-title-3 {
             display: inline-block;
             font-size: 1.2em;
