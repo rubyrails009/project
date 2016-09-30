@@ -307,6 +307,14 @@ h1 {
             display: inline;
         }
 
+        .navbar-nav > li {
+            font-size: 20px;
+        }
+        
+        .dropdown-menu {
+            font-size: 20px;
+        }
+        
         
     }
 
