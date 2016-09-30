@@ -329,6 +329,12 @@ h1,h3 {
             
         }
         
+        #about, 
+        #contact,
+        #portfolio {
+            display: none;
+        }
+        
      
    
 
