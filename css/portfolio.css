@@ -2,8 +2,8 @@ a {
     line-height: 1px;
     display: inline-block;
     text-decoration: none;
-    padding: 6px;
-    margin: 8px;
+    padding: auto;
+    margin: auto;
 }
 
 #embedded-navbar {
