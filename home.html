@@ -48,14 +48,23 @@
     
       
       <!-- Alternative navbar for small screen -->
-      <nav class="navbar navbar-light bg-faded">
+      <nav class="navbar navbar-inverse bg-faded">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar" aria-controls="exCollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">
     &#9776;
   </button>
   <div class="collapse" id="exCollapsingNavbar">
-    <div class="bg-inverse p-a-1">
-      <h4>Collapsed content</h4>
-      <span class="text-muted">Toggleable via the navbar brand.</span>
+    <div class="bg-default p-a-1">
+        <ul>
+            <li>
+                <h4>Collapsed content</h4>
+                <span class="text-muted">Toggleable via the navbar brand.</span>
+                <a class="nav-item nav-link active" href="#">Home<span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link" href="#about">About</a>
+                <a class="nav-item nav-link" href="#portfolio">Portfolio</a>
+                <a class="nav-item nav-link" href="#contact">Contact</a>   
+            </li>
+        </ul>
+      
     </div>
   </div>
 </nav>
