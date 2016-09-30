@@ -328,7 +328,8 @@ h1,h3 {
         }
         
         .navbar-right {
-            width: 3em;
+            width: auto;
+            height: auto;
         }
         
    
