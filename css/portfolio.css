@@ -299,6 +299,19 @@ h1 {
 
 }
 
+@media (max-width: 359px) {
+    
+    .navbar-brand,
+    .navbar-nav li a {
+        line-height: 150px;
+        height: 150px;
+        padding-top: 0;
+        display: inline;
+    }
+    
+    
+}
+
 #nav-div {
   width: 100%;
 }
