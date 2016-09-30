@@ -317,6 +317,14 @@ h1 {
         max-height: inherit;
     }
     
+    #nav-tag ul li a {
+        
+        float: left;
+        display: inline-block;
+        font-size: medium;
+        text-align: center;
+    }
+    
     
 }
 
