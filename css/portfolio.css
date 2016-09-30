@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 a {
     line-height: .0625em;
     display: inline;
@@ -223,11 +227,15 @@ h1,h3 {
 
 /* Carousel Styling */
 .slide1 {
-  background-image: url('http://wallpaper.zone/img/2879265.jpg');
+    
+  background-image: linear-gradient(lightblue, transparent 90%),
+                    linear-gradient(0deg, #fff, transparent),
+                    url('http://wallpaper.zone/img/2879265.jpg');
   height: 31.25em;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+    
 }
 
 .slide2 {
@@ -236,6 +244,7 @@ h1,h3 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+    
 }
 
 .slide3 {
