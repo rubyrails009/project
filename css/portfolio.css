@@ -307,13 +307,11 @@ h1 {
             display: inline;
         }
         
-        #another-navbar > div > ul > li{
+        #another-navbar > div > ul > li > a {
             padding: .2em .1em;
+            font-size: medium;
         }
-        
-        #navbar-title {
-            display: inline;
-        }
+
         
     }
 
