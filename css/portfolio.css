@@ -38,9 +38,9 @@ body {
   max-width: 325em;
   padding: .875em .875em .875em;
   margin: 0 auto 1.25em;
-  background-color: #fff;
+  background-color: lightgrey;
   border: .0625em solid #d6d6d6;
-  border-top-color: #fff;
+  border-top: none;
 
 }
 
@@ -272,7 +272,8 @@ h1,h3 {
     border: none;
 }
 
-.carousel-control.left, .carousel-control.right {
+.carousel-control.left, 
+.carousel-control.right {
     background-image: none;
 }
 
