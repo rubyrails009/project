@@ -274,12 +274,9 @@ h1 {
     }
       
       h1 {
-          font-size: 20px;
+          font-size: auto;
       }
     
-      div a {
-          font-size: medium;
-      }
       
       .navbar-brand,
     .navbar-nav li a {
