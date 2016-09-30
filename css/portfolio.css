@@ -20,7 +20,7 @@ a {
 }
 
 body {
-  position: absolute;
+  
   background-color: #142D42;
   padding-top: 4.375em;
     
@@ -328,7 +328,7 @@ h1,h3 {
         }
         
         #navbar-collapse-1 > .dropdown-menu {
-            width: 3.6em;
+            width: auto;
         }
 
     }
