@@ -59,6 +59,7 @@ hr {
     padding: 7.8125em;
     margin: 3.75em 5em;
     border-radius: .9375em;
+    float: left;
 }
 
 #portfolio {
