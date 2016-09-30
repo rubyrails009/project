@@ -229,7 +229,7 @@ h1,h3 {
 /* Carousel Styling */
 .slide1 {
     
-  background-image: linear-gradient(darkgrey, transparent 98%),
+  background-image: linear-gradient(darkgrey, transparent 70%),
                     linear-gradient(0deg, lightgrey, transparent),
                     url('http://wallpaper.zone/img/2879265.jpg');
   height: 31.25em;
@@ -240,7 +240,7 @@ h1,h3 {
 }
 
 .slide2 {
-  background-image: linear-gradient(darkgrey, transparent 95%),
+  background-image: linear-gradient(darkgrey, transparent 50%),
                     linear-gradient(0deg, lightgrey, transparent),
                     url('http://cdn.wallpapersafari.com/1/21/MQO3xG.jpg');
   height: 31.25em;
@@ -251,7 +251,7 @@ h1,h3 {
 }
 
 .slide3 {
-  background-image: linear-gradient(darkgrey, transparent 100%),
+  background-image: linear-gradient(darkgrey, transparent 40%),
                     linear-gradient(0deg, lightgrey, transparent),
                     url('http://ihdimages.com/wp-content/uploads/2014/11/landscape_sunset_mountain_background_wallpaper.jpg');
   height: 31.25em;
