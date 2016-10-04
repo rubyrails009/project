@@ -477,7 +477,7 @@ h1,h3 {
         
         #another-navbar {
             display: inline;
-            height: 2.5em;
+            min-height: 2.5em;
             
         }
         
