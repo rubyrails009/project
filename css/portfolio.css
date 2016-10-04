@@ -301,10 +301,10 @@ h1,h3 {
 .slide1 {
     
   background-image: linear-gradient(#101010, transparent 90%),
-                    linear-gradient(90deg, lightgrey, transparent 5%),
-                    linear-gradient(-90deg, lightgrey, transparent 5%),
                     linear-gradient(0deg, lightgrey, transparent 30%),
-                    url('http://wallpaper.zone/img/2879265.jpg');
+                    url('http://wallpaper.zone/img/2879265.jpg'),
+                    linear-gradient(90deg, lightgrey, transparent 5%),
+                    linear-gradient(-90deg, lightgrey, transparent 5%);
   height: 31.25em;
   background-repeat: no-repeat;
   background-position: center;
