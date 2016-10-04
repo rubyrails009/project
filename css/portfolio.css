@@ -345,7 +345,7 @@ h1,h3 {
   font-size: 5.4em;
   font-family: 'Pacifico', cursive;
   padding-bottom: .4em;
-  text-emphasis-position: above;
+  margin-top: 1.5em !important;
 }
 
 .carousel-caption p {
