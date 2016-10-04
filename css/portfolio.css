@@ -139,7 +139,7 @@ hr {
 }
 
 #about {
-    width: 100%;
+    width: 90%;
     height:  31.25em;
     border: .1875em solid green;
     padding: 7.8125em;
@@ -148,11 +148,11 @@ hr {
 }
 
 #portfolio {
-    width: 100%; 
+    width: 90%; 
 }
 
 #contact {
-    width: 100%; 
+    width: 90%; 
 }
 
 .navbar a {
