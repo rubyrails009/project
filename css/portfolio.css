@@ -243,7 +243,7 @@ h1,h3 {
   color: white;
   font-family: 'Lobster', cursive;
     font-weight: normal;
-    line-height: .5;
+    line-height: -1.5;
     text-shadow: 5px 8px 10px rgba(0,0,0,.8);
   
 }
