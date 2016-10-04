@@ -402,7 +402,7 @@ h1,h3 {
 .arrow {
   width: 5em;
   margin-top: 0;
-  margin-right: 75%;
+  margin-right: auto;
   padding: .4em;
 }
 
