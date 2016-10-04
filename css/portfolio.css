@@ -150,7 +150,7 @@ hr {
 #portfolio {
     width: 90%;
     height: 31.25em;
-    border: .1875em solid red;
+    /*border: .1875em solid red;*/
     padding: 7.8125em;
     margin: 3.75em 5em;
     border-radius: .9375em;
