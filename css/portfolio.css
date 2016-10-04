@@ -351,6 +351,7 @@ h1,h3 {
 }
 
 #carousal-div {
+    width: 100%;
     background-color:  linear-gradient(#101010, transparent 90%),
                        linear-gradient(0deg, lightgrey, transparent 30%);
 }
