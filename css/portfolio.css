@@ -300,9 +300,9 @@ h1,h3 {
 /* Carousel Styling */
 .slide1 {
     
-  background-image: linear-gradient(lightgrey, transparent 90%),
-                    linear-gradient(90deg, lightgrey, transparent 30%),
-                    linear-gradient(-90deg, lightgrey, transparent 30%),
+  background-image: linear-gradient(lightgrey, transparent 30%),
+                    linear-gradient(90deg, lightgrey, transparent 10%),
+                    linear-gradient(-90deg, lightgrey, transparent 10%),
                     linear-gradient(0deg, lightgrey, transparent 30%),
                     url('http://wallpaper.zone/img/2879265.jpg');
   height: 31.25em;
