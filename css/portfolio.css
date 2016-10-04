@@ -405,8 +405,11 @@ h1,h3 {
 
 
 .arrow-background {
-    width: auto;
     background-color: red;
+    width: 90%;
+    padding: 7.8125em;
+    margin: 0 5em;
+    
 }
 
 
