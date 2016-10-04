@@ -404,6 +404,11 @@ h1,h3 {
 }
 
 
+.arrow-background {
+    width: auto;
+    background-color: red;
+}
+
 
 
 
