@@ -532,6 +532,10 @@ h1,h3 {
           font-size: 1.9em;  
           margin-top: .3em;
         }
+        
+        #another-navbar {
+            height: 2.0em;
+        }
     }
 
     /* Medium Devices, Desktops */
