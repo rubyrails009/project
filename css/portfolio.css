@@ -520,6 +520,10 @@ h1,h3 {
       h1 {
           font-size: auto;
       }
+        
+        #another-navbar {
+            height: 2.0em;
+        }
     
 
 
@@ -533,9 +537,7 @@ h1,h3 {
           margin-top: .3em;
         }
         
-        #another-navbar {
-            height: 2.0em;
-        }
+        
     }
 
     /* Medium Devices, Desktops */
